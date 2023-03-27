@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 
-public class Dialog1 {
+public class Task1 {
     public static void main(String[] args){
         try {
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());

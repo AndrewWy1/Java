@@ -1,0 +1,4 @@
+2023-11-04T18:50:48.394+02:00  WARN 4908 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is WARN
+2023-11-04T18:50:48.395+02:00 ERROR 4908 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is ERROR
+2023-11-04T18:53:51.004+02:00  WARN 11660 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is WARN
+2023-11-04T18:53:51.005+02:00 ERROR 11660 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is ERROR
